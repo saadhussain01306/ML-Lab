@@ -1,6 +1,3 @@
-Here is the markdown file with the exact order provided:
-
-```markdown
 1 Visualize the n-dimensional data using 3D surface plots.
 Write a program to implement the Best First Search (BFS) algorithm.
 
@@ -33,6 +30,3 @@ Boolean functions.
 
 12 Write a program to develop Multi-layer perceptron to implement AND-NOT, XOR 
 Boolean functions.
-```
-
-You can save this as a markdown file, for example, `assignments.md`.
